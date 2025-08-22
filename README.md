@@ -1,4 +1,4 @@
-#Flower Shop Website
+# Flower Shop Website
 
 A simple and elegant one-page website
 A simple and elegant one-page website design for a flower shop, built using only HTML and CSS.
@@ -13,3 +13,4 @@ This project focuses on a clean layout, responsive design, and visually appealin
 * Modern, minimal, and floral-inspired styling
 
 * Built entirely with HTML & CSS (no JavaScript)
+
